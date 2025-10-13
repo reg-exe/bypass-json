@@ -1,1 +1,16 @@
-{ "status": "allow", "message": "This bypass has been disabled. Contact Panel 0.9." }
+[
+  {
+    "uid": "4865450206",
+    "expiry_date": "999-12-31",
+    "comment": "Admin"
+  },
+  {
+    "uid": "7025537913",
+    "expiry_date": "999-12-31",
+    "comment": ""
+  },
+  {
+    "uid": "",
+    "expiry_date": "999-12-31",
+    "comment": ""
+  },
